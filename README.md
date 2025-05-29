@@ -1,11 +1,8 @@
-
-
 # Hello, I'm Will
 
 I sometimes code or make random things in relation to video games.
 
-
-
+![](https://komarev.com/ghpvc/?username=onibl3ss&style=for-the-badge&color=ffb6c1)
 
 <p align="center">
   <strong>Socials</strong>
@@ -27,4 +24,5 @@ I sometimes code or make random things in relation to video games.
 No active projects.
 
 ## Stats
-![ONIBL3SS' GitHub stats](https://github-readme-stats-navy-six-13.vercel.app/api?username=onibl3ss&theme=transparent&border_color=30363d&title_color=ffffff&text_color=ffb6c1)
+<p align="center">
+  <img src="https://github-readme-stats-navy-six-13.vercel.app/api?username=onibl3ss&theme=transparent&border_color=30363d&title_color=ffffff&text_color=ffb6c1"/>
