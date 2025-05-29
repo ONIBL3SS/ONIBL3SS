@@ -1,6 +1,6 @@
 
 
-# Hello, I'm Oni
+# Hello, I'm Will
 I sometimes code or make random things in relation to video games.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=onibl3ss&style=for-the-badge&color=e63e62)
