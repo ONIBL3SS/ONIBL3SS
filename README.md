@@ -1,4 +1,4 @@
-# Hello, I'm Will
+# Hey, I'm Will!
 
 I sometimes code or make random things in relation to video games.
 
@@ -21,7 +21,7 @@ I sometimes code or make random things in relation to video games.
 
 ## Active Projects
   <p align="center">
-<strong>No active projects.</strong>
+<strong>Currently no active projects.</strong>
 
 ## Stats
 <p align="center">
