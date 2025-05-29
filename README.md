@@ -21,7 +21,7 @@ I sometimes code or make random things in relation to video games.
 
 ## Active Projects
   <p align="center">
-No active projects.
+<strong>No active projects.</strong>
 
 ## Stats
 <p align="center">
