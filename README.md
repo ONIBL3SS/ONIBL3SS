@@ -1,11 +1,14 @@
 
 
 # Hello, I'm Will
+
 I sometimes code or make random things in relation to video games.
 
-![Profile Views](https://komarev.com/ghpvc/?username=onibl3ss&style=for-the-badge&color=e63e62)
 
-## Socials
+
+
+<p align="center">
+  <strong>Socials</strong>
 <p align="center">
 <a target="_blank" href="https://x.com/onibl3ss"><img src="https://img.shields.io/badge/%40ONIBL3SS-black?style=for-the-badge&logo=x&logoColor=white&color=black" /></a>
 <a target="_blank" href="https://discord.com/users/1045746635159912469"><img src="https://img.shields.io/badge/%40ONIBL3SS-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -15,7 +18,13 @@ I sometimes code or make random things in relation to video games.
 
 ## Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,blender,vscode" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,blender,vscode"/>
   </a>
 </p>
+
+## Active Projects
+  <p align="center">
+No active projects.
+
+## Stats
+![ONIBL3SS' GitHub stats](https://github-readme-stats-navy-six-13.vercel.app/api?username=onibl3ss&theme=transparent&border_color=30363d&title_color=ffffff&text_color=ffb6c1)
