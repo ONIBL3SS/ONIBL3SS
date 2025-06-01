@@ -1,4 +1,4 @@
-# Hey, I'm Will!
+# Hey, I'm oni!
 
 I sometimes code or make random things in relation to video games.
 
