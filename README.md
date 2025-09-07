@@ -2,7 +2,7 @@
 
 I sometimes code or make random things in relation to video games.
 
-![](https://komarev.com/ghpvc/?username=onibl3ss&style=for-the-badge&color=ffb6c1)
+![](https://komarev.com/ghpvc/?username=onibl3ss&style=for-the-badge&color=4183c4)
 
 <p align="center">
   <strong>Socials</strong>
@@ -15,7 +15,7 @@ I sometimes code or make random things in relation to video games.
 
 ## Tools
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity,cs,blender,vscode"/>
+    <img src="https://skillicons.dev/icons?i=unity,cs,java,blender,vscode"/>
   </a>
 </p>
 
